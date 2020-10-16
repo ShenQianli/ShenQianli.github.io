@@ -33,5 +33,5 @@ Email: <font color=Red>shenqianli [at] pku.edu.cn </font>
 
 - **PRIMAL: PaRametric sImplex Method for spArse Learning** [[GitHub](https://github.com/ShenQianli/primal)]
 
-  Qianli Shen\*, <font color=Gray>Zichong Li, Yujia Xie and Tuo Zhao</font>
+  Qianli Shen\*, <font color=Gray>Zichong Li*, Yujia Xie and Tuo Zhao</font>
 
