@@ -6,8 +6,9 @@ layout: home
 ---
 
 <div align=center>
-  <img src="img/IMG_7068.JPG" alt="IMG_7068" style="zoom:25%;" />
+  <img src="assets/img/me.JPG" alt="me" style="zoom:25%;" />
 </div>
+
 
 Hi! This is Qianli Shen（沈千里）:) 
 
@@ -19,7 +20,7 @@ For some reason, my graduate study has been postponed. (a peaceful and safe worl
 
 Email: <font color=Red>shenqianli [at] pku.edu.cn </font>
 
-[CV](cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=p3ekN2kAAAAJ&hl=en) / [GitHub](https://github.com/ShenQianli) / [Ins](https://www.instagram.com/kkkilomiles/) / [Twitter](https://www.twitter.com/ShenQianli)
+[CV](assets/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=p3ekN2kAAAAJ&hl=en) / [GitHub](https://github.com/ShenQianli) / [Ins](https://www.instagram.com/kkkilomiles/) / [Twitter](https://www.twitter.com/ShenQianli)
 
 # Publications
 
