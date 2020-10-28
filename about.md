@@ -11,12 +11,11 @@ Now serve yourself with a cup of coffee as I'm going to talk about some fun fact
 <html>
 
 <head>
-  <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
+  <!--<link rel="stylesheet" type="text/css" href="../assets/css/style.css">-->
 </head>
 <details>
 <summary>More About My Research</summary>
 <p>
-<br>
 Fascinated by the power of machine intelligence and concerned about the challenges faced by humans on the path to the AI era, I started my exploration of machine learning a few years ago. My research objective is twofold:
 <br>
 <br>
@@ -58,15 +57,14 @@ Agents are sensitive to environment shift, and in multi-agent gaming, to adversa
 <br>
 There is still a long way for me to go before I can thoroughly answer any of these questions. My research will center on these Qs. And I'll update this part with new Qs or some As from time to time. 
 <br>
-<br>
 </p>
 </details>
+
 
 
 <details>
 <summary>About My Name</summary>
 <p>
-<br>
 My Chinese name, 千里(Qianli), pronunced like ['tʃiænli], a little difficult for native English speakers according to my exerience in the US. 千里 is a Chinese unit of distance and 1 千里 is about 311 miles. This is exactly where my instagram ID <a href='https://www.instagram.com/about311miles/'> @about311miles </a>comes from.
 <br>
 <br>
