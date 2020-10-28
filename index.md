@@ -20,7 +20,7 @@ For some reason, my graduate study has been postponed. (a peaceful and safe worl
 
 Email: <font color=Red>shenqianli [at] pku.edu.cn </font>
 
-[CV](assets/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=p3ekN2kAAAAJ&hl=en) / [GitHub](https://github.com/ShenQianli) / [Ins](https://www.instagram.com/kkkilomiles/) / [Twitter](https://www.twitter.com/ShenQianli)
+[CV](assets/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=p3ekN2kAAAAJ&hl=en) / [GitHub](https://github.com/ShenQianli) / [Ins](https://www.instagram.com/about311miles/) / [Twitter](https://www.twitter.com/ShenQianli)
 
 # Publications
 
