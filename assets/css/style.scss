@@ -6,6 +6,10 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+a:hover{
+    text-decoration:none;
+}
+
 details {
     border: 0px solid #aaa;
     border-radius: 4px;
