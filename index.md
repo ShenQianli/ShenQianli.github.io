@@ -22,17 +22,37 @@ Email: <font color=Red>shenqianli [at] pku.edu.cn </font>
 
 [CV](assets/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=p3ekN2kAAAAJ&hl=en) / [GitHub](https://github.com/ShenQianli) / [Ins](https://www.instagram.com/about311miles/) / [Twitter](https://www.twitter.com/ShenQianli)
 
+<br>
+<br>
 # Publications
+<p>
+<b><font size=5>Deep Reinforcement Learning with Smooth Policy</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>] 
+<br>
+<b>Qianli Shen*</b>, <font color=Gray>Yan Li*, Haoming Jiang, Zhaoran Wang and Tuo Zhao</font>
+<br>
+<font color=Grey><i>International Conference on Machine Learning (ICML), 2020</i></font> 
+<br>
 
-- **Deep Reinforcement Learning with Smooth Policy** [[arxiv](https://arxiv.org/abs/2003.09534)]
+<div align=left>
+<a href="assets/pubs/DRLwithSmoothPolicy.png">
+<img src="assets/pubs/DRLwithSmoothPolicy.png" alt="pub1" height=280 width=500  align="center"/>
+</a>
+</div>
+</p>
 
-  Qianli Shen\*, <font color=Gray>Yan Li*, Haoming Jiang, Zhaoran Wang and Tuo Zhao</font>
-
-  <font color=Grey><i>International Conference on Machine Learning (ICML), 2020</i></font> 
-
+<br>
+<br>
 # Softwares
+<p>
+<b><font size=5>PRIMAL: PaRametric sImplex Method for spArse Learning</font></b> [<a href="https://github.com/ShenQianli/primal">GitHub</a>] 
+<br>
+<b>Qianli Shen*</b>, <font color=Gray>Zichong Li*, Yujia Xie and Tuo Zhao</font>
+<br>
 
-- **PRIMAL: PaRametric sImplex Method for spArse Learning** [[GitHub](https://github.com/ShenQianli/primal)]
-
-  Qianli Shen\*, <font color=Gray>Zichong Li*, Yujia Xie and Tuo Zhao</font>
+<div align=left>
+<a href="assets/softwares/primal.jpg">
+<img src="assets/softwares/primal.jpg" alt="pub1" height=280 width=500  align="center"/>
+</a>
+</div>
+</p>
 
