@@ -16,48 +16,30 @@ Now serve yourself with a cup of coffee as I'm going to talk about some fun fact
 <details>
 <summary>More About My Research</summary>
 <p>
-Fascinated by the power of machine intelligence and concerned about the challenges faced by humans on the path to the AI era, I started my exploration of machine learning a few years ago. My research objective is twofold:
+My research goal is to develop practical machine intelligence system to serve humanity. At this stage I focus on developing sample-efficient reinforcement algorithms. I'm particularly interested in the following topics.
 </p>
 <p>
-- First, to develop efficient algorithm for machine intelligence. The large amount of data and computing resource needed for training hamper the development of powerful machine intelligence. Data efficient and computationally efficient algorithms are needed to solve this problem.
-</p>
-<p>
-- Second, to bridge the gap between research and practical application. Despite the theoretical guarantee for the power of neural networks (NN), models based on NN underperform traditional methods in terms of stability and robustness in many important areas like robotics. Further work is needed to utilize mathematically powerful models in real-world applications.
-</p>
-<p>
-<font color='DeepSkyBlue'> Hope you enjoy the first paragraph of my personal statement for graduate study application. If not, it doesn't matter. I myself don't like it very much lol. </font>
-</p>
-<p>
-OK, everybody once or more heared about the power of Deep Learning and Artificial Intelligence. Machines do better image classification and language translation. Machines beat human players at Go and at MOBA games. Is that true? Yes, under the condition that you have sufficient computing resource and high-quality data. However, in most cases...
-</p>
-<p>
-<img src="../assets/img/ai.jpg">
-</p>
-<p>
-It seems cats are more likely to take over the world...
-</p>
-<p>
-The success of machine learning is limited. The low data efficiency, high conputing cost and safety risk hamper the launch of machine learning systems (especially reinforcement learning systems) in industrial scenarios. Here are some questions I particularly curious about.
-</p>
-<p>
-<b>How to take full advantage of data to achieve efficient learning?</b>
-</p>
-<p>
-Learning with simulator is cheap, as one can generate huge amount of data without worrying about the cost. However, real data is expensive. Learning from imperfect data (limited, corrupted, imbalancd, distributionally shifted) is challanging. How can we handle these issues?
-</p>
-<p>
-Another aspect of this problem is about the broad <b>data</b>, which refers to encoded knowledge from human or from prior learning experience. How to generate and encode these kind of knowledge? How to efficiently transfer it across models and tasks?
-</p>
-<p>
-<b>How to construct safe and robust policy with limited data?</b>
-</p>
-<p>
-Agents are sensitive to environment shift, and in multi-agent gaming, to adversarial policy. Sufficient data helps to ease these issues, but the truth is data is expensive, especially in practical scenarios. We need to design rules to constrain the agent during training. How to efficiently combine rules with training? How to automatically balance between constraint and learning?
-</p>
-<p>
-There is still a long way for me to go before I can thoroughly answer any of these questions. My research will center on these Qs. And I'll update this part with new Qs or some As from time to time. 
+<b>Principled Large-scale Deep RL</b>
+<br>
+Neural networks (NN) is powerful as function approximator for RL but hard to train due to low data-efficiency, high variance, easy-to-overfitting nature. Some of my recent works aim to addressing such issues by empirical studies and overcome them by heuristic methods. Though there exists gap between classical RL with tarbular function or linear function approximation and deep RL with non-linear function approximation, important facts of the former could inspire algorithm designing for large-scale problems. 
+<br>
+<br>
+<b>Pretrain-Finetune Paradigm for DRL</b>
+<br>
+Pretraining with large & general dataset and finetuning on small & specific dataset has been the standard paradigm for CV & NLP. I expect similar framework for DRL under definite conditions. I'm interested in related areas e.g. transfer RL, multitask RL, meta RL, skill discovery, representation learning for RL, etc. and did some trials by myself (My bachelor thesis is strongly related to it).
+<br>
+<br>
+<b>Offline RL (Batch RL)</b>
+<br>
+Offline RL (batch RL) setting, in which online interaction is expensive but offline interactive data is cheap, is widespread in industial scenarios. The history of exploration on offline RL is not very long and study absent for many specific conditions where offline assumption is relaxed. How to accelerate online training with offline data? How to distill knowledges from offline data? I’d like to find answers to these questions.
+<br>
+<br>
+<b>Robot Learning </b>
+<br>
+Exploration in reality is expensive and needs extra ensurance of safety and robustness. There are some potentially feasible plans I want to explore 1) combining encoded human knowledges (e.g. first-order soft logic) 2) taking advantage of simulated data. 
 </p>
 </details>
+
 
 <details>
 <summary>About My Name</summary>
