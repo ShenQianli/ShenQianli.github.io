@@ -21,22 +21,22 @@ My research goal is to develop practical machine intelligence system to serve hu
 <p>
 <b>Principled Large-scale Deep RL</b>
 <br>
-Neural networks (NN) is powerful as function approximator for RL but hard to train due to low data-efficiency, high variance, easy-to-overfitting nature. Some of my recent works aim to addressing such issues by empirical studies and overcome them by heuristic methods. Though there exists gap between classical RL with tarbular function or linear function approximation and deep RL with non-linear function approximation, important facts of the former could inspire algorithm designing for large-scale problems. 
+Neural networks (NN) is powerful as function approximator but hard to train due to low data-efficiency, high variance, easy-to-overfitting nature. Some of my recent works aim to addressing such issues by empirical studies and overcome them by heuristic methods. Though there exists gap between classical RL with tarbular function or linear function approximation and DRL with non-linear function approximation, important facts of the former could inspire algorithm designing for large-scale problems.  
 <br>
 <br>
 <b>Pretrain-Finetune Paradigm for DRL</b>
 <br>
-Pretraining with large & general dataset and finetuning on small & specific dataset has been the standard paradigm for CV & NLP. I expect similar framework for DRL under definite conditions. I'm interested in related areas e.g. transfer RL, multitask RL, meta RL, skill discovery, representation learning for RL, etc. and did some trials by myself (My bachelor thesis is strongly related to it).
+Pretraining with large dataset and finetuning on task-specific dataset has been the standard paradigm for CV & NLP. I expect similar framework for DRL under definite conditions. I'm interested in related areas e.g. transfer RL, multitask RL, meta RL, skill discovery, representation learning for RL, etc. and worked on a strongly related topic in my undergraduate thesis.
 <br>
 <br>
 <b>Offline RL (Batch RL)</b>
 <br>
-Offline RL (batch RL) setting, in which online interaction is expensive but offline interactive data is cheap, is widespread in industial scenarios. The history of exploration on offline RL is not very long and study absent for many specific conditions where offline assumption is relaxed. How to accelerate online training with offline data? How to distill knowledges from offline data? I’d like to find answers to these questions.
+Offline RL (batch RL) setting, in which online interaction is expensive but offline interactive data is cheap, is widespread in industial scenarios. There are limited previous works under the relaxed offline assumption. How to accelerate online training with offline data? How to distill knowledges from offline data? I’d like to find answers to these questions.
 <br>
 <br>
 <b>Robot Learning </b>
 <br>
-Exploration in reality is expensive and needs extra ensurance of safety and robustness. There are some potentially feasible plans I want to explore 1) combining encoded human knowledges (e.g. first-order soft logic) 2) taking advantage of simulated data. 
+Exploration in reality is expensive and needs extra ensurance of safety and robustness. Though I'm new to real robot learning, there are some potentially feasible plans I want to explore 1) combining encoded human knowledges (e.g. first-order soft logic) 2) more efficient utilization of simulated data. 
 </p>
 </details>
 
