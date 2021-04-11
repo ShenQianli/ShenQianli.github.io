@@ -12,11 +12,11 @@ layout: home
 
 Hi! This is Qianli Shen（沈千里）:) 
 
-I’m now on my gap year working with Dr. Chen Chen and [Prof. Jianye Hao](http://www.icdai.org/jianye.html). Previously, I completed my B.S. in Computer Science at [Peking University](http://english.pku.edu.cn/) in July 2020, advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). In summer 2019, I visited [ISyE](https://www.isye.gatech.edu/), [Georgia Tech](https://www.gatech.edu/), working with [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/).
+I’m joining [National University of Singapore](https://www.nus.edu.sg/) to begin my study for PhD in Computer Science in the coming August. Previously, I completed my B.S. in Computer Science at [Peking University](http://english.pku.edu.cn/) in July 2020, advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). In summer 2019, I visited [ISyE](https://www.isye.gatech.edu/), [Georgia Tech](https://www.gatech.edu/), working with [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). From July 2020 to now, I worked as a research intern at Noah’s Ark Lab, Huawei Technologies, working with Dr. Chen Chen and [Prof. Jianye Hao](http://www.icdai.org/jianye.html).
 
-My research interests are in practical (data-efficient, safe & robust) **reinforcement learning** algorithms. I’m also interested in applying machine learning methods in industrial scenarios and developing high-performance ML softwares.
+My research interests are in **reinforcement learning**. I’m also interested in applying machine learning methods in industrial scenarios and developing high-performance ML softwares.
 
-For some reason, my graduate study has been postponed. (a peaceful and safe world plz :) ) Now I’m open to potential research positions. Collaborations, discussions and chats are always welcome!
+Collaborations, discussions and chats are always welcome!
 
 Email: <font color=Red>shenqianli [at] pku.edu.cn </font>
 
