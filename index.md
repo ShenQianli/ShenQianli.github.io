@@ -20,7 +20,7 @@ Collaborations, discussions and chats are always welcome!
 
 Email: <font color=Red>shenqianli [at] pku.edu.cn </font>
 
-[CV](assets/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=p3ekN2kAAAAJ&hl=en) / [GitHub](https://github.com/ShenQianli) / [Ins](https://www.instagram.com/about311miles/) / [Twitter](https://www.twitter.com/ShenQianli)
+[CV](assets/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=p3ekN2kAAAAJ&hl=en) / [GitHub](https://github.com/ShenQianli) / [WeChat](assets/img/wechat.JPG) / [Ins](https://www.instagram.com/about311miles/) / [Twitter](https://www.twitter.com/ShenQianli)
 
 <br>
 <br>
