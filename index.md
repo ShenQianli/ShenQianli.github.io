@@ -18,7 +18,7 @@ My research interests are in the practice in Machine Learning, especially Deep L
 
 Collaborations, discussions and chats are always welcome!
 
-Email: <font color=Red>shenqianli [at] u.nus..edu </font>
+Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 
 [CV](assets/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=p3ekN2kAAAAJ&hl=en) / [GitHub](https://github.com/ShenQianli) / [WeChat](assets/img/wechat.JPG) / [Ins](https://www.instagram.com/about311miles/) / [Twitter](https://www.twitter.com/ShenQianli)
 
