@@ -30,16 +30,6 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 # Publications
 
 <p>
-<b><font size=5>Deep Reinforcement Learning with Robust and Smooth Policy</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>][<a href="https://www2.isye.gatech.edu/~tzhao80/III1717916/proj18_smooth.html">html</a>]  
-<br>
-<b>Qianli Shen*</b>, <font color=Gray>Yan Li*, Haoming Jiang, Zhaoran Wang and Tuo Zhao</font>
-<br>
-<font color=Grey><i>International Conference on Machine Learning (ICML), 2020</i></font> 
-<br>
-
-<br>
-
-<p>
 <b><font size=5>GFlowOut: Dropout with Generative Flow Networks. International Conference on Machine Learning</font></b> [<a href="https://arxiv.org/abs/2111.09266">arxiv</a>] 
 <br>
 <font color=Gray>Dianbo Liu, Moksh Jain, Bonaventure F. P. Dossou, </font> <b>Qianli Shen</b><font color=Gray>, Salem Lahlou, Anirudh Goyal, Nikolay Malkin, Chris Chinenye Emezue, Dinghuai Zhang, Nadhir Hassen, Xu Ji, Kenji Kawaguchi and Yoshua Bengio</font>
@@ -47,7 +37,14 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <font color=Grey><i>International Conference on Machine Learning (ICML), 2023</i></font> 
 <br>
 
+<p>
+<b><font size=5>Deep Reinforcement Learning with Robust and Smooth Policy</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>][<a href="https://www2.isye.gatech.edu/~tzhao80/III1717916/proj18_smooth.html">html</a>]  
 <br>
+<b>Qianli Shen*</b>, <font color=Gray>Yan Li*, Haoming Jiang, Zhaoran Wang and Tuo Zhao</font>
+<br>
+<font color=Grey><i>International Conference on Machine Learning (ICML), 2020</i></font> 
+<br>
+  
 <br>
 <!-- 
 # Softwares
