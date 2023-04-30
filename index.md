@@ -30,7 +30,7 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 # Publications
 
 <p>
-<b><font size=5>GFlowOut: Dropout with Generative Flow Networks. International Conference on Machine Learning</font></b> [<a href="https://arxiv.org/abs/2111.09266">arxiv</a>] 
+<b><font size=5>GFlowOut: Dropout with Generative Flow Networks</font></b> [<a href="https://arxiv.org/abs/2111.09266">arxiv</a>] 
 <br>
 <font color=Gray>Dianbo Liu, Moksh Jain, Bonaventure F. P. Dossou, </font> <b>Qianli Shen</b><font color=Gray>, Salem Lahlou, Anirudh Goyal, Nikolay Malkin, Chris Chinenye Emezue, Dinghuai Zhang, Nadhir Hassen, Xu Ji, Kenji Kawaguchi and Yoshua Bengio</font>
 <br>
