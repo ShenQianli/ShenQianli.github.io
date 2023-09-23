@@ -23,12 +23,27 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 [CV](assets/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=p3ekN2kAAAAJ&hl=en) / [GitHub](https://github.com/ShenQianli) / [WeChat](assets/img/wechat.JPG) / [Ins](https://www.instagram.com/about311miles/) / [Twitter](https://www.twitter.com/ShenQianli)
 
 <br>
-<br>
 
 # Publications
 
 <p>
-<b><font size=5>Deep Reinforcement Learning with Robust and Smooth Policy</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>][<a href="https://www2.isye.gatech.edu/~tzhao80/III1717916/proj18_smooth.html">html</a>]  
+<b><font size=4>PICProp: Physics-Informed Confidence Propagation for Uncertainty Quantification</font></b>  
+<br>
+<b>Qianli Shen</b>, <font color=Gray>Wai Hoh Tang, Zhun Deng, Apostolos Psaros, Kenji Kawaguchi</font>
+<br>
+<font color=Grey><i>In Advances in Neural Information Processing Systems (NeurIPS), 2023</i></font> 
+<br>
+
+<p>
+<b><font size=4>GFlowOut: Dropout with Generative Flow Networks. International Conference on Machine Learning</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>] 
+<br>
+<font color=Grey>Dianbo Liu, Moksh Jain, Bonaventure F. P. Dossou, </font> <b>Qianli Shen</b><font color=Gray>, Salem Lahlou, Anirudh Goyal, Nikolay Malkin, Chris Chinenye Emezue, Dinghuai Zhang, Nadhir Hassen, Xu Ji, Kenji Kawaguchi and Yoshua Bengio</font>
+<br>
+<font color=Grey><i>International Conference on Machine Learning (ICML), 2023</i></font> 
+<br>
+
+<p>
+<b><font size=4>Deep Reinforcement Learning with Robust and Smooth Policy</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>][<a href="https://www2.isye.gatech.edu/~tzhao80/III1717916/proj18_smooth.html">html</a>]  
 <br>
 <b>Qianli Shen*</b>, <font color=Gray>Yan Li*, Haoming Jiang, Zhaoran Wang and Tuo Zhao</font>
 <br>
@@ -36,29 +51,13 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <br>
 <br>
 
-<p>
-<b><font size=5>GFlowOut: Dropout with Generative Flow Networks. International Conference on Machine Learning</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>] 
-<br>
-<font color=Gray>Dianbo Liu, Moksh Jain, Bonaventure F. P. Dossou, </font> <b>Qianli Shen</b><font color=Gray>, Salem Lahlou, Anirudh Goyal, Nikolay Malkin, Chris Chinenye Emezue, Dinghuai Zhang, Nadhir Hassen, Xu Ji, Kenji Kawaguchi and Yoshua Bengio</font>
-<br>
-<font color=Grey><i>International Conference on Machine Learning (ICML), 2023</i></font> 
-<br>
-
-<br>
-<br>
-
 # Softwares
 
 <p>
-<b><font size=5>PRIMAL: PaRametric sImplex Method for spArse Learning</font></b> [<a href="https://github.com/ShenQianli/primal">GitHub</a>] 
+<b><font size=4>PRIMAL: PaRametric sImplex Method for spArse Learning</font></b> [<a href="https://github.com/ShenQianli/primal">GitHub</a>] 
 <br>
 <b>Qianli Shen*</b>, <font color=Gray>Zichong Li*, Yujia Xie and Tuo Zhao</font>
 <br>
 
-<div align=left>
-<a href="assets/softwares/primal.jpg">
-<img src="assets/softwares/primal.jpg" alt="pub1" height=280 width=500  align="center"/>
-</a>
-</div>
 </p>
 
