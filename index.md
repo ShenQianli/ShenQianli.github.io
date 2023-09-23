@@ -26,20 +26,20 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 
 <br>
 
-## Publications
+<b><font size=5>Publications</font></b>
 
 <p>
 <b><font size=3>PICProp: Physics-Informed Confidence Propagation for Uncertainty Quantification</font></b>
 <br>
-<b>Qianli Shen</b>, <font color=Gray>Wai Hoh Tang, Zhun Deng, Apostolos Psaros, Kenji Kawaguchi</font>
+<b>Qianli Shen</b>, <font color=Grey>Wai Hoh Tang, Zhun Deng, Apostolos Psaros, Kenji Kawaguchi</font>
 <br>
 <font color=Grey><i>In Advances in Neural Information Processing Systems (NeurIPS), 2023</i></font> 
 <br>
 
 <p>
-<b><font size=3>GFlowOut: Dropout with Generative Flow Networks. International Conference on Machine Learning</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>] 
+<b><font size=3>GFlowOut: Dropout with Generative Flow Networks</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>][<a href="https://github.com/kaiyuanmifen/GFNDropout">code</a>]
 <br>
-<font color=Grey>Dianbo Liu, Moksh Jain, Bonaventure F. P. Dossou, </font> <b>Qianli Shen</b><font color=Gray>, Salem Lahlou, Anirudh Goyal, Nikolay Malkin, Chris Chinenye Emezue, Dinghuai Zhang, Nadhir Hassen, Xu Ji, Kenji Kawaguchi and Yoshua Bengio</font>
+<font color=Grey>Dianbo Liu, Moksh Jain, Bonaventure F. P. Dossou, </font> <b>Qianli Shen</b><font color=Gray>, Salem Lahlou, Anirudh Goyal, Nikolay Malkin, Chris Chinenye Emezue, Dinghuai Zhang, Nadhir Hassen, Xu Ji, Kenji Kawaguchi, Yoshua Bengio</font>
 <br>
 <font color=Grey><i>International Conference on Machine Learning (ICML), 2023</i></font> 
 <br>
@@ -47,13 +47,13 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <p>
 <b><font size=3>Deep Reinforcement Learning with Robust and Smooth Policy</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>][<a href="https://www2.isye.gatech.edu/~tzhao80/III1717916/proj18_smooth.html">html</a>]  
 <br>
-<b>Qianli Shen*</b>, <font color=Gray>Yan Li*, Haoming Jiang, Zhaoran Wang and Tuo Zhao</font>
+<b>Qianli Shen*</b>, <font color=Gray>Yan Li*, Haoming Jiang, Zhaoran Wang, Tuo Zhao</font>
 <br>
 <font color=Grey><i>International Conference on Machine Learning (ICML), 2020</i></font> 
 <br>
 <br>
 
-## Softwares
+<b><font size=5>Softwares</font></b>
 
 <p>
 <b><font size=3>PRIMAL: PaRametric sImplex Method for spArse Learning</font></b> [<a href="https://github.com/ShenQianli/primal">GitHub</a>] 
