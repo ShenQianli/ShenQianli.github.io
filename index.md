@@ -3,11 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+
 ---
 
 <div align=center>
   <img src="assets/img/me.JPG" alt="me" style="zoom:25%;" />
 </div>
+
 
 
 Hi! This is Qianli Shen（沈千里）:) 
@@ -24,10 +26,10 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 
 <br>
 
-# Publications
+## Publications
 
 <p>
-<b><font size=4>PICProp: Physics-Informed Confidence Propagation for Uncertainty Quantification</font></b>  
+<b><font size=3>PICProp: Physics-Informed Confidence Propagation for Uncertainty Quantification</font></b>
 <br>
 <b>Qianli Shen</b>, <font color=Gray>Wai Hoh Tang, Zhun Deng, Apostolos Psaros, Kenji Kawaguchi</font>
 <br>
@@ -35,7 +37,7 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <br>
 
 <p>
-<b><font size=4>GFlowOut: Dropout with Generative Flow Networks. International Conference on Machine Learning</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>] 
+<b><font size=3>GFlowOut: Dropout with Generative Flow Networks. International Conference on Machine Learning</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>] 
 <br>
 <font color=Grey>Dianbo Liu, Moksh Jain, Bonaventure F. P. Dossou, </font> <b>Qianli Shen</b><font color=Gray>, Salem Lahlou, Anirudh Goyal, Nikolay Malkin, Chris Chinenye Emezue, Dinghuai Zhang, Nadhir Hassen, Xu Ji, Kenji Kawaguchi and Yoshua Bengio</font>
 <br>
@@ -43,7 +45,7 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <br>
 
 <p>
-<b><font size=4>Deep Reinforcement Learning with Robust and Smooth Policy</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>][<a href="https://www2.isye.gatech.edu/~tzhao80/III1717916/proj18_smooth.html">html</a>]  
+<b><font size=3>Deep Reinforcement Learning with Robust and Smooth Policy</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>][<a href="https://www2.isye.gatech.edu/~tzhao80/III1717916/proj18_smooth.html">html</a>]  
 <br>
 <b>Qianli Shen*</b>, <font color=Gray>Yan Li*, Haoming Jiang, Zhaoran Wang and Tuo Zhao</font>
 <br>
@@ -51,13 +53,12 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <br>
 <br>
 
-# Softwares
+## Softwares
 
 <p>
-<b><font size=4>PRIMAL: PaRametric sImplex Method for spArse Learning</font></b> [<a href="https://github.com/ShenQianli/primal">GitHub</a>] 
+<b><font size=3>PRIMAL: PaRametric sImplex Method for spArse Learning</font></b> [<a href="https://github.com/ShenQianli/primal">GitHub</a>] 
 <br>
 <b>Qianli Shen*</b>, <font color=Gray>Zichong Li*, Yujia Xie and Tuo Zhao</font>
 <br>
-
-</p>
+<br>
 
