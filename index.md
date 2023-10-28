@@ -26,12 +26,23 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 
 <br>
 
+<b><font size=5>Preprints</font></b>
+
+<p>
+<b><font size=3>The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline</font></b> 
+<br>
+<font color=Grey>Haonan Wang, </font> <b>Qianli Shen</b><font color=Grey>, Yao Tong, Yang Zhang, Kenji Kawaguchi</font>
+<br>
+<font color=Grey><i>BUGS Workshop @ In Advances in Neural Information Processing Systems (NeurIPS), 2023 (Oral) </i></font> 
+<br>
+<br>
+
 <b><font size=5>Publications</font></b>
 
 <p>
 <b><font size=3>PICProp: Physics-Informed Confidence Propagation for Uncertainty Quantification</font></b> [<a href="http://arxiv.org/abs/2310.06923">arxiv</a>][<a href="https://github.com/ShenQianli/PICProp">code</a>]
 <br>
-<b>Qianli Shen</b>, <font color=Grey>Wai Hoh Tang, Zhun Deng, Apostolos Psaros, Kenji Kawaguchi</font>
+<b>Qianli Shen</b><font color=Grey>, Wai Hoh Tang, Zhun Deng, Apostolos Psaros, Kenji Kawaguchi</font>
 <br>
 <font color=Grey><i>In Advances in Neural Information Processing Systems (NeurIPS), 2023</i></font> 
 <br>
