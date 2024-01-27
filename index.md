@@ -38,7 +38,8 @@ Models</font></b> [<a href="https://arxiv.org/abs/2312.00057">arxiv</a>][<a href
 <br>
 
 <p>
-<b><font size=3>The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline</font></b> 
+<b><font size=3>The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline</font></b> [<a href="https://arxiv.org/abs/2401.04136">arxiv</a>][<a href="https:
+//github.com/haonan3/SilentBadDiffusion">code</a>]
 <br>
 <font color=Grey>Haonan Wang, </font> <b>Qianli Shen</b><font color=Grey>, Yao Tong, Yang Zhang, Kenji Kawaguchi</font>
 <br>
