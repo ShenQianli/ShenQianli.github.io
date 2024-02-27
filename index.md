@@ -29,15 +29,6 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <b><font size=5>Preprints</font></b>
 
 <p>
-<b><font size=3>Probabilistic Copyright Protection Can Fail for Text-to-Image Generative
-Models</font></b> [<a href="https://arxiv.org/abs/2312.00057">arxiv</a>][<a href="https://github.com/South7X/VA3">code</a>]
-<br>
-<font color=Grey>Xiang Li*, </font> <b>Qianli Shen*</b><font color=Grey>, Kenji Kawaguchi</font>
-<br>
-<font color=Grey><i> Under Review </i></font> 
-<br>
-
-<p>
 <b><font size=3>The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline</font></b> [<a href="https://arxiv.org/abs/2401.04136">arxiv</a>][<a href="https:
 //github.com/haonan3/SilentBadDiffusion">code</a>]
 <br>
@@ -48,6 +39,14 @@ Models</font></b> [<a href="https://arxiv.org/abs/2312.00057">arxiv</a>][<a href
 <br>
 
 <b><font size=5>Publications</font></b>
+
+<p>
+<b><font size=3>VA3: Virtually Assured Amplification Attack on Probabilistic Copyright Protection for Text-to-Image Generative Models</font></b> [<a href="https://arxiv.org/abs/2312.00057">arxiv</a>][<a href="https://github.com/South7X/VA3">code</a>]
+<br>
+<font color=Grey>Xiang Li*, </font> <b>Qianli Shen*</b><font color=Grey>, Kenji Kawaguchi</font>
+<br>
+<font color=Grey><i> The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024 </i></font> 
+<br>
 
 <p>
 <b><font size=3>PICProp: Physics-Informed Confidence Propagation for Uncertainty Quantification</font></b> [<a href="http://arxiv.org/abs/2310.06923">arxiv</a>][<a href="https://github.com/ShenQianli/PICProp">code</a>]
