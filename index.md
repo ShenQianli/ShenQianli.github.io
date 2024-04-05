@@ -34,7 +34,7 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <br>
 <font color=Grey>Haonan Wang, </font> <b>Qianli Shen</b><font color=Grey>, Yao Tong, Yang Zhang, Kenji Kawaguchi</font>
 <br>
-<font color=Grey><i>BUGS Workshop @ In Advances in Neural Information Processing Systems (NeurIPS), 2023 (Oral) </i></font> 
+<font color=Grey><i> In Advances in Neural Information Processing Systems (NeurIPS), 2023 (BUGS Workshop, Oral) </i></font> 
 <br>
 <br>
 
@@ -45,7 +45,7 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <br>
 <font color=Grey>Xiang Li*, </font> <b>Qianli Shen*</b><font color=Grey>, Kenji Kawaguchi</font>
 <br>
-<font color=Grey><i> The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024 </i></font> 
+<font color=Grey><i> Conference on Computer Vision and Pattern Recognition (CVPR), 2024 (Highlight) </i></font> 
 <br>
 
 <p>
