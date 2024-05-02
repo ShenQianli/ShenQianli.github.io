@@ -26,7 +26,27 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 
 <br>
 
-<b><font size=5>Preprints</font></b>
+[//]: # (<b><font size=5>Preprints</font></b>)
+
+[//]: # (<p>)
+
+[//]: # (<b><font size=3>The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline</font></b> [<a href="https://arxiv.org/abs/2401.04136">arxiv</a>][<a href="https:)
+
+[//]: # (//github.com/haonan3/SilentBadDiffusion">code</a>])
+
+[//]: # (<br>)
+
+[//]: # (<font color=Grey>Haonan Wang, </font> <b>Qianli Shen</b><font color=Grey>, Yao Tong, Yang Zhang, Kenji Kawaguchi</font>)
+
+[//]: # (<br>)
+
+[//]: # (<font color=Grey><i> In Advances in Neural Information Processing Systems &#40;NeurIPS&#41;, 2023 &#40;BUGS Workshop, Oral&#41; </i></font> )
+
+[//]: # (<br>)
+
+[//]: # (<br>)
+
+<b><font size=5>Publications</font></b>
 
 <p>
 <b><font size=3>The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline</font></b> [<a href="https://arxiv.org/abs/2401.04136">arxiv</a>][<a href="https:
@@ -36,9 +56,8 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <br>
 <font color=Grey><i> In Advances in Neural Information Processing Systems (NeurIPS), 2023 (BUGS Workshop, Oral) </i></font> 
 <br>
+<font color=Grey><i>International Conference on Machine Learning (ICML), 2024</i></font> 
 <br>
-
-<b><font size=5>Publications</font></b>
 
 <p>
 <b><font size=3>VA3: Virtually Assured Amplification Attack on Probabilistic Copyright Protection for Text-to-Image Generative Models</font></b> [<a href="https://arxiv.org/abs/2312.00057">arxiv</a>][<a href="https://github.com/South7X/VA3">code</a>]
