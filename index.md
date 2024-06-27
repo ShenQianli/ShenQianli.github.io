@@ -49,6 +49,22 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <b><font size=5>Publications</font></b>
 
 <p>
+<b><font size=3>Memory-Eﬀicient Gradient Unrolling for Large-Scale Bi-level Optimization</font></b> [<a href="https://arxiv.org/abs/2406.14095">arxiv</a>]
+<br>
+<font color=Grey></font> <b>Qianli Shen</b><font color=Grey>, Yezhen Wang, Zhouhao Yang, Xiang Li, Haonan Wang, Yang Zhang, Jonathon Scarlett, Zhanxing Zhu, Kenji Kawaguchi</font>
+<br>
+<font color=Grey><i>Preprint</i></font> 
+<br>
+
+<p>
+<b><font size=3>FinerCut: Finer-grained Interpretable Layer Pruning for Large Language Models</font></b> [<a href="https://arxiv.org/abs/2405.18218">arxiv</a>]
+<br>
+<font color=Grey>Yang Zhang, Yawei Li, Xinpeng Wang, </font><b>Qianli Shen</b><font color=Grey>, Barbara Plank, Bernd Bischl, Mina Rezaei and Kenji Kawaguchi</font>
+<br>
+<font color=Grey><i>Preprint</i></font> 
+<br>
+
+<p>
 <b><font size=3>The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline</font></b> [<a href="https://arxiv.org/abs/2401.04136">arxiv</a>][<a href="https:
 //github.com/haonan3/SilentBadDiffusion">code</a>]
 <br>
@@ -56,7 +72,7 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <br>
 <font color=Grey><i> In Advances in Neural Information Processing Systems (NeurIPS), 2023 (BUGS Workshop, Oral) </i></font> 
 <br>
-<font color=Grey><i>International Conference on Machine Learning (ICML), 2024</i></font> 
+<font color=Grey><i>International Conference on Machine Learning (ICML), 2024 (Oral, top 1.5%)</i></font> 
 <br>
 
 <p>
@@ -64,7 +80,7 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <br>
 <font color=Grey>Xiang Li*, </font> <b>Qianli Shen*</b><font color=Grey>, Kenji Kawaguchi</font>
 <br>
-<font color=Grey><i> Conference on Computer Vision and Pattern Recognition (CVPR), 2024 (Highlight) </i></font> 
+<font color=Grey><i> Conference on Computer Vision and Pattern Recognition (CVPR), 2024 (Highlight, top 2.5%) </i></font> 
 <br>
 
 <p>
