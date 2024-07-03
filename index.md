@@ -51,7 +51,7 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <p>
 <b><font size=3>Memory-Eﬀicient Gradient Unrolling for Large-Scale Bi-level Optimization</font></b> [<a href="https://arxiv.org/abs/2406.14095">arxiv</a>]
 <br>
-<font color=Grey></font> <b>Qianli Shen</b><font color=Grey>, Yezhen Wang, Zhouhao Yang, Xiang Li, Haonan Wang, Yang Zhang, Jonathon Scarlett, Zhanxing Zhu, Kenji Kawaguchi</font>
+<font color=Grey></font> <b>Qianli Shen</b><font color=Grey>, Yezhen Wang, Zhouhao Yang, Xiang Li, Haonan Wang, Yang Zhang, Jonathan Scarlett, Zhanxing Zhu, Kenji Kawaguchi</font>
 <br>
 <font color=Grey><i>Preprint</i></font> 
 <br>
