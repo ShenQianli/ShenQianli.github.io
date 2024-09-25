@@ -7,14 +7,14 @@ layout: home
 ---
 
 <div align=center>
-  <img src="assets/img/me.JPG" alt="me" style="zoom:25%;" />
+  <img src="assets/img/qianli&newmoo.png" alt="me" style="zoom:8%;" />
 </div>
 
 
 
 Hi! This is Qianli Shen（沈千里）:) 
 
-I’m a third-year PhD student at [School of Computing](https://www.comp.nus.edu.sg/),  [National University of Singapore](https://www.nus.edu.sg/), advised by [Prof. Kenji Kawaguchi](https://people.csail.mit.edu/kawaguch/). Previously, I completed my B.S. in Computer Science at [Peking University](http://english.pku.edu.cn/) in July 2020, advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). In summer 2019, I visited [ISyE](https://www.isye.gatech.edu/), [Georgia Tech](https://www.gatech.edu/), working with [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). 
+I’m a fourth-year PhD student at [School of Computing](https://www.comp.nus.edu.sg/),  [National University of Singapore](https://www.nus.edu.sg/), advised by [Prof. Kenji Kawaguchi](https://people.csail.mit.edu/kawaguch/). Previously, I completed my B.S. in Computer Science at [Peking University](http://english.pku.edu.cn/) in July 2020, advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). In summer 2019, I visited [ISyE](https://www.isye.gatech.edu/), [Georgia Tech](https://www.gatech.edu/), working with [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). 
 
 My research interest lies in using machine learning algorithms to solve practical problems.
 
@@ -53,15 +53,7 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <br>
 <font color=Grey></font> <b>Qianli Shen</b><font color=Grey>, Yezhen Wang, Zhouhao Yang, Xiang Li, Haonan Wang, Yang Zhang, Jonathan Scarlett, Zhanxing Zhu, Kenji Kawaguchi</font>
 <br>
-<font color=Grey><i>Preprint</i></font> 
-<br>
-
-<p>
-<b><font size=3>FinerCut: Finer-grained Interpretable Layer Pruning for Large Language Models</font></b> [<a href="https://arxiv.org/abs/2405.18218">arxiv</a>]
-<br>
-<font color=Grey>Yang Zhang, Yawei Li, Xinpeng Wang, </font><b>Qianli Shen</b><font color=Grey>, Barbara Plank, Bernd Bischl, Mina Rezaei and Kenji Kawaguchi</font>
-<br>
-<font color=Grey><i>Preprint</i></font> 
+<font color=Grey><i>In Advances in Neural Information Processing Systems (NeurIPS), 2024</i></font> 
 <br>
 
 <p>
@@ -106,6 +98,31 @@ Email: <font color=Red>shenqianli [at] u.nus.edu </font>
 <br>
 <font color=Grey><i>International Conference on Machine Learning (ICML), 2020</i></font> 
 <br>
+<br>
+<b><font size=5>Preprints</font></b>
+
+<p>
+<b><font size=3>State-Space Models are Accurate and Efficient Neural Operators for Dynamical Systems</font></b> [<a href="https://arxiv.org/pdf/2409.03231">arxiv</a>]
+<br>
+<font color=Grey>Zheyuan Hu, Nazanin Ahmadi Daryakenari, </font><b>Qianli Shen</b><font color=Grey>, Kenji Kawaguchi, George Em Karniadakis</font>
+<br>
+<font color=Grey><i>Preprint</i></font> 
+<br>
+
+<p>
+<b><font size=3>FinerCut: Finer-grained Interpretable Layer Pruning for Large Language Models</font></b> [<a href="https://arxiv.org/abs/2405.18218">arxiv</a>]
+<br>
+<font color=Grey>Yang Zhang, Yawei Li, Xinpeng Wang, </font><b>Qianli Shen</b><font color=Grey>, Barbara Plank, Bernd Bischl, Mina Rezaei and Kenji Kawaguchi</font>
+<br>
+<font color=Grey><i>Preprint</i></font> 
+<br>
+
+<p>
+<b><font size=3>State-Aware Proximal Pessimistic Algorithms for Offline Reinforcement Learning</font></b> [<a href="https://arxiv.org/pdf/2409.03231">arxiv</a>]
+<br>
+<font color=Grey>Chen Chen, Hongyao Tang, Yi Ma, Chao Wang, </font><b>Qianli Shen</b><font color=Grey>, Dong Li, Jianye Hao</font>
+<br>
+<font color=Grey><i>Preprint</i></font> 
 <br>
 
 <b><font size=5>Softwares</font></b>
