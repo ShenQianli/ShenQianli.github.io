@@ -80,6 +80,14 @@ Dianbo Liu, Moksh Jain, Bonaventure F. P. Dossou, <b>Qianli Shen</b>, Salem Lahl
 <b><font size="5">Preprints</font></b>
 
 <p>
+<b><font size="3">LoReUn: Data Itself Implicitly Provides Cues to Improve Machine Unlearning</font></b>
+<br>
+Xiang Li, <b>Qianli Shen</b>, Haonan Wang, Kenji Kawaguchi
+<br>
+<i>In Advances in Neural Information Processing Systems (NeurIPS), 2024 (SafeGenAI Workshop)</i>
+</p>
+
+<p>
 <b><font size="3">State-Space Models are Accurate and Efficient Neural Operators for Dynamical Systems</font></b> [<a href="https://arxiv.org/pdf/2409.03231">arxiv</a>]
 <br>
 Zheyuan Hu, Nazanin Ahmadi Daryakenari, <b>Qianli Shen</b>, Kenji Kawaguchi, George Em Karniadakis
@@ -92,7 +100,7 @@ Zheyuan Hu, Nazanin Ahmadi Daryakenari, <b>Qianli Shen</b>, Kenji Kawaguchi, Geo
 <br>
 Yang Zhang, Yawei Li, Xinpeng Wang, <b>Qianli Shen</b>, Barbara Plank, Bernd Bischl, Mina Rezaei, Kenji Kawaguchi
 <br>
-<i>Preprint</i>
+<i>In Advances in Neural Information Processing Systems (NeurIPS), 2024 (Compression Workshop)</i>
 </p>
 
 <p>
