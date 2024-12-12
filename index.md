@@ -27,7 +27,7 @@ I welcome collaborations, discussions, and casual chats!
 <b><font size="5">Publications</font></b> <font size="3">(* indicates equal contribution)</font>
 
 <p>
-<b><font size="3" id="memory-efficient-gradient-unrolling-for-large-scale-bi-level-optimization">Memory-Efficient Gradient Unrolling for Large-Scale Bi-level Optimization</font></b> [<a href="https://arxiv.org/abs/2406.14095">arxiv</a>]
+<b><font size="3" id="memory-efficient-gradient-unrolling-for-large-scale-bi-level-optimization">Memory-Efficient Gradient Unrolling for Large-Scale Bi-level Optimization</font></b> [<a href="https://arxiv.org/abs/2406.14095">arxiv</a>][<a href="https://github.com/ShenQianli/FG2U">code</a>]
 <br>
 <b>Qianli Shen</b>, Yezhen Wang, Zhouhao Yang, Xiang Li, Haonan Wang, Yang Zhang, Jonathan Scarlett, Zhanxing Zhu, Kenji Kawaguchi
 <br>
