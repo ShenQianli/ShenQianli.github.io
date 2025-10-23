@@ -1,2 +1,40 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+/* Publications & Preprints typography */
+.pub-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.pub-authors {
+  font-size: 0.8rem;
+//   color: #555;
+}
+
+.pub-meta {
+  font-size: 0.8rem;
+  color: #666;
+  font-style: italic;
+}
+
+.pub-badge {
+  display: inline-block;
+  padding: 0.05rem 0.35rem;
+  margin-right: 0.35rem;
+  border-radius: 0.3rem;
+  background: #eef2ff;
+  color: #3b5bfd;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.pub-item {
+  line-height: 1.45;
+}
+
+/* Intro section */
+.intro-text {
+  font-size: 0.9rem;
+  line-height: 1.65;
+}

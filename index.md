@@ -10,115 +10,112 @@ layout: home
   <img src="assets/img/qianli&newmoo.png" alt="Me" style="zoom: 8%;" />
 </div>
 
-# Welcome!
+## Welcome!
 
-Hello! I am Qianli Shen (沈千里), a fourth-year PhD student at the [School of Computing](https://www.comp.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/), where I am advised by [Prof. Kenji Kawaguchi](https://people.csail.mit.edu/kawaguch/). I completed my B.S. in Computer Science at [Peking University](http://english.pku.edu.cn/) in July 2020, under the guidance of [Prof. Zhanxing Zhu](https://zhanxingzhu.github.io/). In the summer of 2019, I visited the [ISyE](https://www.isye.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/) and worked with [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/).
+Hi, I’m Qianli — a Research Scientist at Alibaba Group’s [Tongyi Lab](https://tongyi.aliyun.com/welcome). I split my time between research on large language models (LLMs) and building open-source AI infrastructure.
 
-My research interests focus on leveraging machine learning algorithms to address practical problems.
+I received my Ph.D. from the [School of Computing](https://www.comp.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/), advised by [Prof. Kenji Kawaguchi](https://people.csail.mit.edu/kawaguch/). 
+Before that, I earned a B.S. in Computer Science from [Peking University](http://english.pku.edu.cn/), where I worked with [Prof. Zhanxing Zhu](https://zhanxingzhu.github.io/). 
+I’ve also spent time at [Baichuan Inc.](https://www.baichuan-ai.com/), [Sea AI Lab](https://sail.sea.com/), and as a visiting researcher at [Georgia Tech](https://www.gatech.edu/).
 
-I welcome collaborations, discussions, and casual chats!
+Outside of work, I enjoy 🐱🏀🤿🎿🧑‍🍳🎮🃏 ...
 
-**Email:** <span style="color: red;">shenqianli [at] u.nus.edu</span>
+**Email:** <span style="color: red;">shenqianlilili[at]gmail.com </span> 
 
-[CV](assets/cv.pdf) | [Google Scholar](https://scholar.google.com/citations?user=p3ekN2kAAAAJ&hl=en) | [GitHub](https://github.com/ShenQianli) | [WeChat](assets/img/wechat.JPG) | [Instagram](https://www.instagram.com/about311miles/) | [Twitter](https://www.twitter.com/ShenQianli)
+[[CV](assets/cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=p3ekN2kAAAAJ&hl=en)] [[GitHub](https://github.com/ShenQianli)] [[WeChat](assets/img/wechat.JPG)]
 
 <br>
 
-<b><font size="5">Publications</font></b> <font size="3">(* indicates equal contribution)</font>
+<b><span class="pub-title" style="font-size: 1.4rem; font-weight: 700;">Selected Publications</span></b> <span class="pub-meta">(* indicates equal contribution)</span>
 
-<p>
-<b><font size="3" id="memory-efficient-gradient-unrolling-for-large-scale-bi-level-optimization">Memory-Efficient Gradient Unrolling for Large-Scale Bi-level Optimization</font></b> [<a href="https://arxiv.org/abs/2406.14095">arxiv</a>][<a href="https://github.com/ShenQianli/FG2U">code</a>]
+<p class="pub-item">
+<b><span class="pub-title">Memory-Efficient Gradient Unrolling for Large-Scale Bi-level Optimization</span></b> [<a href="https://arxiv.org/abs/2406.14095">arxiv</a>][<a href="https://github.com/ShenQianli/FG2U">code</a>]
 <br>
-<b>Qianli Shen</b>, Yezhen Wang, Zhouhao Yang, Xiang Li, Haonan Wang, Yang Zhang, Jonathan Scarlett, Zhanxing Zhu, Kenji Kawaguchi
+<span class="pub-authors"><b>Qianli Shen</b>, Yezhen Wang, Zhouhao Yang, Xiang Li, Haonan Wang, Yang Zhang, Jonathan Scarlett, Zhanxing Zhu, Kenji Kawaguchi</span>
 <br>
-<i>In Advances in Neural Information Processing Systems (NeurIPS), 2024</i>
+<span class="pub-meta">In Advances in Neural Information Processing Systems (NeurIPS), 2024</span>
 </p>
 
-<p>
-<b><font size="3" id="the-stronger-the-diffusion-model-the-easier-the-backdoor">The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline</font></b> [<a href="https://arxiv.org/abs/2401.04136">arxiv</a>][<a href="https://github.com/haonan3/SilentBadDiffusion">code</a>]
+<p class="pub-item">
+<b><span class="pub-title" id="the-stronger-the-diffusion-model-the-easier-the-backdoor">The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline</span></b> [<a href="https://arxiv.org/abs/2401.04136">arxiv</a>][<a href="https://github.com/haonan3/SilentBadDiffusion">code</a>]
 <br>
-Haonan Wang, <b>Qianli Shen</b>, Yao Tong, Yang Zhang, Kenji Kawaguchi
+<span class="pub-authors">Haonan Wang, <b>Qianli Shen</b>, Yao Tong, Yang Zhang, Kenji Kawaguchi</span>
+<!-- <br>
+<span class="pub-meta">In Advances in Neural Information Processing Systems (NeurIPS), 2023 (BUGS Workshop, Oral)</span> -->
 <br>
-<i>In Advances in Neural Information Processing Systems (NeurIPS), 2023 (BUGS Workshop, Oral)</i>
-<br>
-<i>International Conference on Machine Learning (ICML), 2024 (Oral, top 1.5%)</i>
+<span class="pub-meta">International Conference on Machine Learning (ICML), 2024 (Oral)</span>
 </p>
 
-<p>
-<b><font size="3" id="va3-virtually-assured-amplification-attack-on-probabilistic-copyright-protection-for-text-to-image-generative-models">VA3: Virtually Assured Amplification Attack on Probabilistic Copyright Protection for Text-to-Image Generative Models</font></b> [<a href="https://arxiv.org/abs/2312.00057">arxiv</a>][<a href="https://github.com/South7X/VA3">code</a>]
+<p class="pub-item">
+<b><span class="pub-title" id="va3-virtually-assured-amplification-attack-on-probabilistic-copyright-protection-for-text-to-image-generative-models">VA3: Virtually Assured Amplification Attack on Probabilistic Copyright Protection for Text-to-Image Generative Models</span></b> [<a href="https://arxiv.org/abs/2312.00057">arxiv</a>][<a href="https://github.com/South7X/VA3">code</a>]
 <br>
-Xiang Li*, <b>Qianli Shen*</b>, Kenji Kawaguchi
+<span class="pub-authors">Xiang Li*, <b>Qianli Shen*</b>, Kenji Kawaguchi</span>
 <br>
-<i>Conference on Computer Vision and Pattern Recognition (CVPR), 2024 (Highlight, top 2.5%)</i>
+<span class="pub-meta">Conference on Computer Vision and Pattern Recognition (CVPR), 2024 (Highlight)</span>
 </p>
 
-<p>
-<b><font size="3" id="picprop-physics-informed-confidence-propagation-for-uncertainty-quantification">PICProp: Physics-Informed Confidence Propagation for Uncertainty Quantification</font></b> [<a href="http://arxiv.org/abs/2310.06923">arxiv</a>][<a href="https://github.com/ShenQianli/PICProp">code</a>]
+<p class="pub-item">
+<b><span class="pub-title" id="picprop-physics-informed-confidence-propagation-for-uncertainty-quantification">PICProp: Physics-Informed Confidence Propagation for Uncertainty Quantification</span></b> [<a href="http://arxiv.org/abs/2310.06923">arxiv</a>][<a href="https://github.com/ShenQianli/PICProp">code</a>]
 <br>
-<b>Qianli Shen</b>, Wai Hoh Tang, Zhun Deng, Apostolos Psaros, Kenji Kawaguchi
+<span class="pub-authors"><b>Qianli Shen</b>, Wai Hoh Tang, Zhun Deng, Apostolos Psaros, Kenji Kawaguchi</span>
 <br>
-<i>In Advances in Neural Information Processing Systems (NeurIPS), 2023</i>
+<span class="pub-meta">In Advances in Neural Information Processing Systems (NeurIPS), 2023</span>
 </p>
 
-<p>
-<b><font size="3" id="gflowout-dropout-with-generative-flow-networks">GFlowOut: Dropout with Generative Flow Networks</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>][<a href="https://github.com/kaiyuanmifen/GFNDropout">code</a>]
+<!-- <p class="pub-item">
+<b><span class="pub-title" id="gflowout-dropout-with-generative-flow-networks">GFlowOut: Dropout with Generative Flow Networks</span></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>][<a href="https://github.com/kaiyuanmifen/GFNDropout">code</a>]
 <br>
-Dianbo Liu, Moksh Jain, Bonaventure F. P. Dossou, <b>Qianli Shen</b>, Salem Lahlou, Anirudh Goyal, Nikolay Malkin, Chris Chinenye Emezue, Dinghuai Zhang, Nadhir Hassen, Xu Ji, Kenji Kawaguchi, Yoshua Bengio
+<span class="pub-authors">Dianbo Liu, Moksh Jain, Bonaventure F. P. Dossou, <b>Qianli Shen</b>, Salem Lahlou, Anirudh Goyal, Nikolay Malkin, Chris Chinenye Emezue, Dinghuai Zhang, Nadhir Hassen, Xu Ji, Kenji Kawaguchi, Yoshua Bengio</span>
 <br>
-<i>International Conference on Machine Learning (ICML), 2023</i>
+<span class="pub-meta">International Conference on Machine Learning (ICML), 2023</span>
+</p> -->
+
+<p class="pub-item">
+<b><span class="pub-title" id="deep-reinforcement-learning-with-robust-and-smooth-policy">Deep Reinforcement Learning with Robust and Smooth Policy</span></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>]
+<br>
+<span class="pub-authors"><b>Qianli Shen*</b>, Yan Li*, Haoming Jiang, Zhaoran Wang, Tuo Zhao</span>
+<br>
+<span class="pub-meta">International Conference on Machine Learning (ICML), 2020</span>
 </p>
 
-<p>
-<b><font size="3" id="deep-reinforcement-learning-with-robust-and-smooth-policy">Deep Reinforcement Learning with Robust and Smooth Policy</font></b> [<a href="https://arxiv.org/abs/2003.09534">arxiv</a>][<a href="https://www2.isye.gatech.edu/~tzhao80/III1717916/proj18_smooth.html">html</a>]  
+<!-- <br>
+<b><span class="pub-title" style="font-size: 1.4rem; font-weight: 700;">Preprints</span></b>
+
+<p class="pub-item">
+<b><span class="pub-title">LoReUn: Data Itself Implicitly Provides Cues to Improve Machine Unlearning</span></b>
 <br>
-<b>Qianli Shen*</b>, Yan Li*, Haoming Jiang, Zhaoran Wang, Tuo Zhao
+<span class="pub-authors">Xiang Li, <b>Qianli Shen</b>, Haonan Wang, Kenji Kawaguchi</span>
 <br>
-<i>International Conference on Machine Learning (ICML), 2020</i>
+<span class="pub-meta">In Advances in Neural Information Processing Systems (NeurIPS), 2024 (SafeGenAI Workshop)</span>
 </p>
 
+<p class="pub-item">
+<b><span class="pub-title">State-Space Models are Accurate and Efficient Neural Operators for Dynamical Systems</span></b> [<a href="https://arxiv.org/pdf/2409.03231">arxiv</a>]
 <br>
-<b><font size="5">Preprints</font></b>
-
-<p>
-<b><font size="3">LoReUn: Data Itself Implicitly Provides Cues to Improve Machine Unlearning</font></b>
+<span class="pub-authors">Zheyuan Hu, Nazanin Ahmadi Daryakenari, <b>Qianli Shen</b>, Kenji Kawaguchi, George Em Karniadakis</span>
 <br>
-Xiang Li, <b>Qianli Shen</b>, Haonan Wang, Kenji Kawaguchi
-<br>
-<i>In Advances in Neural Information Processing Systems (NeurIPS), 2024 (SafeGenAI Workshop)</i>
+<span class="pub-meta">Preprint</span>
 </p>
 
-<p>
-<b><font size="3">State-Space Models are Accurate and Efficient Neural Operators for Dynamical Systems</font></b> [<a href="https://arxiv.org/pdf/2409.03231">arxiv</a>]
+<p class="pub-item">
+<b><span class="pub-title">FinerCut: Finer-grained Interpretable Layer Pruning for Large Language Models</span></b> [<a href="https://arxiv.org/abs/2405.18218">arxiv</a>]
 <br>
-Zheyuan Hu, Nazanin Ahmadi Daryakenari, <b>Qianli Shen</b>, Kenji Kawaguchi, George Em Karniadakis
+<span class="pub-authors">Yang Zhang, Yawei Li, Xinpeng Wang, <b>Qianli Shen</b>, Barbara Plank, Bernd Bischl, Mina Rezaei, Kenji Kawaguchi</span>
 <br>
-<i>Preprint</i>
+<span class="pub-meta">In Advances in Neural Information Processing Systems (NeurIPS), 2024 (Compression Workshop)</span>
 </p>
 
-<p>
-<b><font size="3">FinerCut: Finer-grained Interpretable Layer Pruning for Large Language Models</font></b> [<a href="https://arxiv.org/abs/2405.18218">arxiv</a>]
+<p class="pub-item">
+<b><span class="pub-title">State-Aware Proximal Pessimistic Algorithms for Offline Reinforcement Learning</span></b> [<a href="https://arxiv.org/abs/2211.15065">arxiv</a>]
 <br>
-Yang Zhang, Yawei Li, Xinpeng Wang, <b>Qianli Shen</b>, Barbara Plank, Bernd Bischl, Mina Rezaei, Kenji Kawaguchi
+<span class="pub-authors">Chen Chen, Hongyao Tang, Yi Ma, Chao Wang, <b>Qianli Shen</b>, Dong Li, Jianye Hao</span>
 <br>
-<i>In Advances in Neural Information Processing Systems (NeurIPS), 2024 (Compression Workshop)</i>
-</p>
-
-<p>
-<b><font size="3">State-Aware Proximal Pessimistic Algorithms for Offline Reinforcement Learning</font></b> [<a href="https://arxiv.org/abs/2211.15065">arxiv</a>]
-<br>
-Chen Chen, Hongyao Tang, Yi Ma, Chao Wang, <b>Qianli Shen</b>, Dong Li, Jianye Hao
-<br>
-<i>Preprint</i>
-</p>
+<span class="pub-meta">Preprint</span>
+</p> -->
 
 <br>
 <b><font size="5">Softwares</font></b>
 
-<p>
-<b><font size=3>PRIMAL: PaRametric sImplex Method for spArse Learning</font></b> [<a href="https://github.com/ShenQianli/primal">GitHub</a>] 
-<br>
-<b>Qianli Shen*</b>, Zichong Li*, Yujia Xie and Tuo Zhao
-<br>
-</p>
+<b><a href="https://github.com/ShenQianli/primal">PRIMAL: PaRametric sImplex Method for spArse Learning</a>
 
 
