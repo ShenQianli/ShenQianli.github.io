@@ -29,6 +29,14 @@ Outside of work, I enjoy 🐱🏀🤿🎿🧑‍🍳🎮🃏 ...
 <b><span class="pub-title" style="font-size: 1.4rem; font-weight: 700;">Selected Publications</span></b> <span class="pub-meta">(* indicates equal contribution)</span>
 
 <p class="pub-item">
+<b><span class="pub-title">BOTS: A Unified Framework for Bayesian Online Task Selection in LLM Reinforcement Finetuning</span></b> [<a href="https://arxiv.org/abs/2510.26374">arxiv</a>][<a href="https://github.com/ShenQianli/Trinity-RFT/tree/examples/bots/examples/bots">code</a>]
+<br>
+<span class="pub-authors"><b>Qianli Shen*</b>, Daoyuan Chen*, Yilun Huang, Zhenqing Ling, Yaliang Li, Bolin Ding, Jingren Zhou</span>
+<br>
+<span class="pub-meta">Preprint, 2025</span>
+</p>
+
+<p class="pub-item">
 <b><span class="pub-title">Memory-Efficient Gradient Unrolling for Large-Scale Bi-level Optimization</span></b> [<a href="https://arxiv.org/abs/2406.14095">arxiv</a>][<a href="https://github.com/ShenQianli/FG2U">code</a>]
 <br>
 <span class="pub-authors"><b>Qianli Shen</b>, Yezhen Wang, Zhouhao Yang, Xiang Li, Haonan Wang, Yang Zhang, Jonathan Scarlett, Zhanxing Zhu, Kenji Kawaguchi</span>
