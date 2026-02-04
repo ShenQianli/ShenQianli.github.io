@@ -14,26 +14,42 @@ layout: home
 
 Hi, I’m Qianli — a Research Scientist at Alibaba Group’s [Tongyi Lab](https://tongyi.aliyun.com/welcome). I split my time between research on large language models (LLMs) and building open-source AI infrastructure.
 
+As a core contributor and maintainer, I am taking care of 
+- [Data-Juicer](https://github.com/datajuicer/data-juicer) - Data processing for and with foundation models!
+- [Data-Juicer Agents](https://github.com/datajuicer/data-juicer-agents) - A Suite of Agents for Agentic Data Processing.
+
+Outside of work, I enjoy 🐱🏀🤿🎿🧑‍🍳🎮🃏 ...
+
+---
+
 I received my Ph.D. from the [School of Computing](https://www.comp.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/), advised by [Prof. Kenji Kawaguchi](https://people.csail.mit.edu/kawaguch/). 
 Before that, I earned a B.S. in Computer Science from [Peking University](http://english.pku.edu.cn/), where I worked with [Prof. Zhanxing Zhu](https://zhanxingzhu.github.io/). 
 I’ve also spent time at [Baichuan Inc.](https://www.baichuan-ai.com/), [Sea AI Lab](https://sail.sea.com/), and as a visiting researcher at [Georgia Tech](https://www.gatech.edu/).
 
-Outside of work, I enjoy 🐱🏀🤿🎿🧑‍🍳🎮🃏 ...
-
-**Email:** <span style="color: red;">shenqianlilili[at]gmail.com </span> 
+**Email:** <u>shenqianlilili[at]gmail.com</u>
 
 [[CV](assets/cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=p3ekN2kAAAAJ&hl=en)] [[GitHub](https://github.com/ShenQianli)] [[WeChat](assets/img/wechat.JPG)]
+
+## News
+
+- [2026-01-26] One paper [BOTS](https://arxiv.org/abs/2510.26374) accepted by ICLR26🇧🇷! See you in Rio! 
+Looking for **diving buddies🤿** (scuba and/or freediving) in South America before or after the conference.
+
+- [2025-09-08] I joined Tongyi Lab at Alibaba Group as a Research Scientist.
+
+- [2025-08-01] I received my Ph.D. degree 🎓.
 
 <br>
 
 <b><span class="pub-title" style="font-size: 1.4rem; font-weight: 700;">Selected Publications</span></b> <span class="pub-meta">(* indicates equal contribution)</span>
+
 
 <p class="pub-item">
 <b><span class="pub-title">BOTS: A Unified Framework for Bayesian Online Task Selection in LLM Reinforcement Finetuning</span></b> [<a href="https://arxiv.org/abs/2510.26374">arxiv</a>][<a href="https://github.com/ShenQianli/Trinity-RFT/tree/examples/bots/examples/bots">code</a>]
 <br>
 <span class="pub-authors"><b>Qianli Shen*</b>, Daoyuan Chen*, Yilun Huang, Zhenqing Ling, Yaliang Li, Bolin Ding, Jingren Zhou</span>
 <br>
-<span class="pub-meta">Preprint, 2025</span>
+<span class="pub-meta">International Conference on Learning Representations (ICLR), 2026</span>
 </p>
 
 <p class="pub-item">
