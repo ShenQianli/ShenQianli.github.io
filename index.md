@@ -12,13 +12,15 @@ layout: home
 
 ## Welcome!
 
-Hi, I’m Qianli — a Research Scientist at Alibaba Group’s [Tongyi Lab](https://tongyi.aliyun.com/welcome). I split my time between research on large language models (LLMs) and building open-source AI infrastructure.
-
-As a core contributor and maintainer, I am taking care of 
-- [Data-Juicer](https://github.com/datajuicer/data-juicer) - Data processing for and with foundation models!
-- [Data-Juicer Agents](https://github.com/datajuicer/data-juicer-agents) - A Suite of Agents for Agentic Data Processing.
+Hi, I’m Qianli — a Research Scientist at Alibaba Group’s [Tongyi Lab](https://tongyi.aliyun.com/welcome). 
+Recently, I mainly work on (agentic) data engineering for foundation models.
+As a core contributor and maintainer, I am taking care of [Data-Juicer](https://github.com/datajuicer/data-juicer) 
+& [Data-Juicer Agents](https://github.com/datajuicer/data-juicer-agents).
 
 Outside of work, I enjoy 🐱🏀🤿🎿🧑‍🍳🎮🃏 ...
+
+- [🐱](https://shenqianli.github.io/) 👈🏻 Click to know Newmoo, Obby, Ginnya, and Gannya.
+- [🧑‍🍳](https://menu.newmoo.me/menu) 👈🏻 Click to browse our family's private kitchen menu, and be my guest.
 
 ---
 
@@ -137,9 +139,8 @@ Looking for **diving buddies🤿** (scuba and/or freediving) in South America be
 <span class="pub-meta">Preprint</span>
 </p> -->
 
-<br>
+<!-- <br>
 <b><font size="5">Softwares</font></b>
 
-<b><a href="https://github.com/ShenQianli/primal">PRIMAL: PaRametric sImplex Method for spArse Learning</a>
-
+<b><a href="https://github.com/ShenQianli/primal">PRIMAL: PaRametric sImplex Method for spArse Learning</a> -->
 
