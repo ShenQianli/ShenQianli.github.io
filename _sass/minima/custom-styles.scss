@@ -38,3 +38,48 @@
   font-size: 0.9rem;
   line-height: 1.65;
 }
+
+.home-intro {
+  display: grid;
+  grid-template-columns: minmax(0, 30%) minmax(0, 1fr);
+  gap: 2rem;
+  align-items: start;
+  margin-bottom: $spacing-unit;
+}
+
+.home-intro__photo img {
+  display: block;
+  width: 100%;
+  max-width: 220px;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 4px;
+}
+
+.home-intro__bio {
+  min-width: 0;
+
+  h2 {
+    margin-top: 0;
+    margin-bottom: $spacing-unit / 2;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .home-intro {
+    grid-template-columns: 1fr;
+    gap: $spacing-unit / 2;
+  }
+
+  .home-intro__photo img {
+    max-width: 200px;
+  }
+
+  .home-intro__bio h2 {
+    text-align: center;
+  }
+}

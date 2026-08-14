@@ -6,9 +6,11 @@ layout: home
 
 ---
 
-<div align="center">
-  <img src="assets/img/qianli&newmoo.png" alt="Me" style="zoom: 8%;" />
-</div>
+<section class="home-intro" aria-label="Introduction">
+  <div class="home-intro__photo">
+    <img src="{{ '/assets/img/qianli&gannya.jpg' | relative_url }}" alt="Qianli with Gannya" />
+  </div>
+  <div class="home-intro__bio" markdown="1">
 
 ## Welcome!
 
@@ -21,6 +23,9 @@ Outside of work, I enjoy 🐱🏀🤿🎿🧑‍🍳🎮🃏 ...
 
 - [🐱](https://shenqianli.github.io/) 👈🏻 Click to know Newmoo, Obby, Ginnya, and Gannya.
 - [🧑‍🍳](https://menu.newmoo.me/menu) 👈🏻 Click to browse our family's private kitchen menu, and be my guest.
+
+</div>
+</section>
 
 ---
 
